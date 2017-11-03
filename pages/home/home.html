@@ -6,14 +6,6 @@
   </ion-navbar>
 </ion-header>
 
-<!--<ion-content padding>
-  <img src = "http://www.visitbn.org/wp-content/uploads/2014/09/Screen-Shot-2016-01-15-at-1.10.49-PM-675x449.png">
-  <h2></h2>
-
-  <p text-center>
-    What is your question about?
-  </p> -->
-
 <ion-content class="card-background-page">
 
   <ion-card (click) = "loadnetworkPage()">
@@ -21,7 +13,13 @@
     <div class="card-title">Network</div>
     <div class="card-subtitle"></div>
   </ion-card>
-
+  
+  <ion-card (click) = "loadpasswordPage()">
+    <img src="https://static.securityintelligence.com/uploads/2017/01/too-many-passwords-is-the-end-in-sight-630x330.jpg" height="180 px" width="150 px">
+    <div class="card-title">Change Password</div>
+    <div class="card-subtitle"></div>
+  </ion-card>
+  
   <ion-card (click) = "loademailPage()">
     <img src="https://www.mautic.org/wp-content/uploads/2015/08/mautic_email_marketing-720x340.png" height="180 px" width="150 px">
     <div class="card-title">Email</div>
