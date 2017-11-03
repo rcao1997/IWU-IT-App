@@ -1,0 +1,19 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>{{ 'SEARCH_TITLE' | translate }}</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content>
+  <ion-searchbar (ionInput)="getItems($event)" placeholder="{{ 'enter your question. e.g. how to connect to iwu wifi' | translate }}"></ion-searchbar>
+  <ion-list>
+    <button ion-item (click)="openItem(item)" *ngFor="let item of currentItems">
+      <h2>{{item.name}}</h2>
+      <p>{{item.about}}</p>
+      <ion-note item-end *ngIf="item.note">{{item.note}}</ion-note>
+    </button>
+  </ion-list>
+</ion-content>
