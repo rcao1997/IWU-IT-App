@@ -22,6 +22,7 @@ import { TabsPage } from '../pages/tabs/tabs';
 import { faqPage } from '../pages/faq/faq';
 import { emailPage} from '../pages/email/email';
 import { SearchPage } from '../pages/search/search';
+import { passwordPage} from '../pages/password/password';
 
 
 // The translate loader needs to know where to load i18n files
@@ -39,7 +40,8 @@ export function createTranslateLoader(http: HttpClient) {
     TabsPage,
     faqPage,
     emailPage,
-    SearchPage
+    SearchPage,
+    passwordPage,
   ],
   imports: [
     BrowserModule,
@@ -62,7 +64,8 @@ export function createTranslateLoader(http: HttpClient) {
     TabsPage,
     faqPage,
     emailPage,
-    SearchPage
+    SearchPage,
+    passwordPage
   ],
   providers: [
     StatusBar,
