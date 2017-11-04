@@ -18,8 +18,10 @@ The "submit a ticket" page is linked to the SpringShare database, and the users 
 
 In the search page, the users can type their questions and find the answers quickly. The questions will be found based on any ketwords in the questions users search. 
 
-After meeting with customer in Friday, Nov. 3, we will combine the home page and FAQ page together, that is, instead of getting an information for each category, the users will get a set of FAQs in each category they choose. And there will not be FAQ tab anymore. 
+After meeting with customer in Friday, Nov. 3, we get the idea from the customer that we need to combine the home page and the FAQ page together, that is, instead of getting an information for each category, the users will get a set of FAQs in each category they choose. And there will not be FAQ tab anymore. 
 
 
 Rui Cao
+
+
 Nov.4, 2017
