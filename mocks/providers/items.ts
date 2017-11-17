@@ -83,12 +83,4 @@ export class Items {
       return null;
     });
   }
-
-  add(item: Item) {
-    this.items.push(item);
-  }
-
-  delete(item: Item) {
-    this.items.splice(this.items.indexOf(item), 1);
-  }
 }
