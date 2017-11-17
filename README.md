@@ -6,11 +6,11 @@ This app is developed by Rui Cao, Ziyan Liu and Blake Tempel for the Information
 
 # How to use this app? 
 
-This app has 5 tabs in the bottom line: Home, FAQ, Live Chat, Submit a ticket and Search. 
+This app has 4 tabs in the bottom line: Home, Live Chat, Submit a ticket and Search. 
 
 In the home page, we have 5 categories (will change) for users to select: network, email, change password, cable TV and software. When the users click on those categories, the app will lead the users to another page that describes the detailed information in this category. 
 
-In the FAQ page, the users will see the IT FAQs and find their own questions quickly based on the well-organized questions and answers. 
+Inside the page for each category, there is related information in FAQ format, and the questions are listed by frequency. The questions we have for now is a first draft, and will be improved for better explanation. 
 
 In the Live Chat page, the users can have a live chat with the student workers in ITS Help Desk and have their issues being solved. 
 
@@ -18,10 +18,8 @@ The "submit a ticket" page is linked to the SpringShare database, and the users 
 
 In the search page, the users can type their questions and find the answers quickly. The questions will be found based on any ketwords in the questions users search. 
 
-After meeting with customer in Friday, Nov. 3, we get the idea from the customer that we need to combine the home page and the FAQ page together, that is, instead of getting an information for each category, the users will get a set of FAQs in each category they choose. And there will not be FAQ tab anymore. 
-
 
 Rui Cao
 
 
-Nov.4, 2017
+Nov.17, 2017
