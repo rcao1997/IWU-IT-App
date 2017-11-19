@@ -1,10 +1,10 @@
-## IWU-IT-App
+# IWU-IT-App
 
 This is a Github repository for IWU IT App. In this repository, the documents here are not all the code documents in this app, but only those changed based on "Tab-start project" in ionic.
 
 This app is developed by Rui Cao, Ziyan Liu and Blake Tempel for the Information Technology Department in Illinois Wesleyan University. 
 
-# How to use this app? 
+## How to use this app? 
 
 This app has 4 tabs in the bottom line: Home, Live Chat, Submit a ticket and Search. 
 
