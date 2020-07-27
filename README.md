@@ -10,7 +10,7 @@ This app has 4 tabs in the bottom line: Home, Live Chat, Submit a Ticket and Sea
 
 In the **Home** page, we have 6 buttons for users to select: **network, software, email, change password, Google Map** and **about us**. In **network, software, email** and **change password** sections, ths app the app will lead the users to another page that includes FAQs for each category. In **Google Map** part, our app will show the users a Google Map application about current location of the user. In **about us** part, we included the name of the developers and the basic functions of this app. 
 
-![Homepage](/screenshot/homepage.jpg?raw=true "Optional Title")
+![Homepage](/screenshot/about.png?raw=true "Optional Title")
 
 In the **Live Chat** page, the users can have a live chat with the student workers in ITS Help Desk and have their issues being solved. 
 
